@@ -1,0 +1,47 @@
+
+h1 {
+    text-align: center;
+    background-color: white ;
+}
+h2{
+    text-align: center;
+    background-color: ;
+}
+
+body{
+    background-color: lightblue ;
+}
+
+section  {
+    display: flex;
+    justify-content: space-around;
+    background-color: ;
+
+
+
+
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+    
+}
+
+p{
+    width: 200px;
+    height: 100px;
+    
+}
+section  {
+    display: flex;
+    justify-content: space-around;
+    
+
+
+
+
+}
+
+h2{
+    border: 10px black solid;
+}
